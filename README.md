@@ -1,2 +1,4 @@
 # Atmega16_Basic_Drivers
-basic drivers implementation for Atmega16 in C.
+Basic drivers implementation for Atmega16 in C.
+## So far I implemented :
+ - GPIO driver
